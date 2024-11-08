@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="error_request_time_out">Request time out .</string>
+    <string name="pasing_error">Parsing error.</string>
+    <string name="bad_request">Bad request</string>
+    <string name="too_may_requests">Opps,it seem like your kota is exceed</string>
+    <string name="unauthorized">User is unauthorized</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="not_found">method is not found</string>
+    <string name="rquest_timeout">Your request is time out</string>
+    <string name="server_error">Server erorr is occures</string>
+    <string name="serialization">Serialization error conversion is failed</string>
+    <string name="unknown">Unknown error is occures from server</string>
+    <string name="no_internet">"Couldn't connect to server please check your internet"</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="price">Price</string>
+    <string name="change_last_24hr">Change last 24hr</string>
+</resources>
